@@ -1,7 +1,7 @@
 ClusterFinder
 =============
 
-Predicting biosynthetic gene clusters in genomes
+Predicting biosynthetic gene clusters in genomes.
 Authors: Peter Cimermancic & Michael Fischbach
 
 
